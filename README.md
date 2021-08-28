@@ -1,4 +1,5 @@
 # Spider-Man VR Experience
+MADE BY TALKOL!! origianl here: https://github.com/talkol/spiderman NONE OF THIS WAS MADE BY ME ALL OF IT WAS HIM!
 
 Virtual Reality experience based on WebVR, works best with a VR headset like Oculus Quest.
 
