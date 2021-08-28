@@ -3,7 +3,7 @@ AFRAME.registerComponent("map", {
     tilesUpdateFrequency: { type: "int", default: 5 },
     skyUpdateFrequency: { type: "int", default: 59 },
     tileSize: { type: "number", default: 160 },
-    viewDistance: { type: "int", default: 5 },
+    viewDistance: { type: "int", default: 15 },
     crystalRespawnTiles: { type: "int", default: 2 },
     crystalHitDistance: { type: "number", default: 8 }
   },
