@@ -2,4 +2,4 @@
 
 echo "Formatting disk..."
 sleep 5
-echo "Disk successfully formated."
+echo "Disk successfully formatted."
