@@ -4,7 +4,9 @@ h1 {
 body {
     text-align: center;
 }
-#underConstruction {
-    text-align: left;
-    padding-left: 75px;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
